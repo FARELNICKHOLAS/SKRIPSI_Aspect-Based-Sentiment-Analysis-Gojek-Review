@@ -1,7 +1,3 @@
-Here is a complete `README.md` in English tailored to your project structure, including venv setup, Google Drive model download instructions, and correct model placement based on your code.
-
-You can copy this directly into a file named `README.md` in your project root (`skripsizip`).
-
 ```markdown
 # ABSA Gojek Review Dashboard (RoBERTa)
 
