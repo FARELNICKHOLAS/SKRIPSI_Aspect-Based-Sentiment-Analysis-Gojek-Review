@@ -14,8 +14,6 @@ The system performs:
 
 Make sure your folder structure looks like this:
 
-```
-
 skripsizip/
 │
 ├── app.py
