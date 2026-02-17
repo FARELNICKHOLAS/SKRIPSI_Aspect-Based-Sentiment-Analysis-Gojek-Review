@@ -14,7 +14,7 @@ The system performs:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 Make sure your folder structure looks like this:
 
@@ -39,11 +39,11 @@ skripsizip/
 
 ````
 
-> ⚠️ The model files are NOT included in the repository and must be downloaded manually from Google Drive (link will be provided by the author).
+> The model files are NOT included in the repository and must be downloaded manually from Google Drive (link will be provided by the author).
 
 ---
 
-## 🚀 1. Create Virtual Environment (Recommended)
+## 1. Create Virtual Environment (Recommended)
 
 It is strongly recommended to use a virtual environment to avoid dependency conflicts.
 
@@ -104,7 +104,7 @@ Google Drive: [https://drive.google.com/drive/folders/1x5tlLFwSEZYfFNl_xZ7v2I_LN
 
 ---
 
-## 📥 4. Where to Place the Downloaded Models
+## 4. Where to Place the Downloaded Models
 
 After downloading, extract and place the files EXACTLY as follows:
 
