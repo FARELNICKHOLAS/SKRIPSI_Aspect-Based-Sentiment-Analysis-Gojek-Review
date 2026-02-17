@@ -247,7 +247,7 @@ The text preprocessing includes:
 
 ## Author
 
-**Wayan Farel Nickholas Sadewa**
+**Wayan Farel Nickholas Sadewa (2208561051)**
 Thesis Project – Aspect-Based Sentiment Analysis on Gojek Reviews using RoBERTa
 
 ```
