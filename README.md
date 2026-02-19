@@ -11,9 +11,6 @@ The system performs:
 ---
 
 ## Project Structure
-
-Make sure your folder structure looks like this:
-
 skripsizip/
 │
 ├── app.py
@@ -37,7 +34,7 @@ skripsizip/
 
 ---
 
-## 1. Create Virtual Environment (Recommended)
+## 1. Create Virtual Environment 
 
 It is strongly recommended to use a virtual environment to avoid dependency conflicts.
 
@@ -81,7 +78,7 @@ tf-keras
 
 ---
 
-## 3. Download Pretrained Models (IMPORTANT)
+## 3. Download Pretrained Models 
 
 This project requires two pretrained models:
 
@@ -89,8 +86,6 @@ This project requires two pretrained models:
 * RoBERTa Sentiment Model
 
 You must download them from the Google Drive link that will be provided.
-
-Example (replace with your actual link):
 
 ```
 Google Drive: [https://drive.google.com/drive/folders/1x5tlLFwSEZYfFNl_xZ7v2I_LNJrkieuG?usp=sharing]
@@ -222,7 +217,7 @@ The system will automatically:
 
 ---
 
-## 🔧 Preprocessing Pipeline
+## Preprocessing Pipeline
 
 The text preprocessing includes:
 
